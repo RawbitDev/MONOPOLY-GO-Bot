@@ -29,7 +29,7 @@ if __name__ == '__main__':
                 if len(buttons) >= 1:
                     print(f'\nFound button "{button_name}" at {buttons}')
                     button = buttons[0]
-                    if len(buttons) >= 1:
+                    if len(buttons) > 1:
                         button = random.choice(buttons)
                         print(f' > Randomly chosen button at {button}')
                     x, y = button
