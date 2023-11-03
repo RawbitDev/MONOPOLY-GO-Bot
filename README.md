@@ -2,7 +2,7 @@
 Simple Python Auto-Clicker for MONOPOLY GO! or similar Games using BlueStacks.
 
 ## How it works
-Simply place images of the buttons to cklick in the `buttons` folder.  
+Simply place images of the buttons to click in the `buttons` folder.  
 As soon as one of the images is found on screen, the bot automatically clicks the center of it.  
 If several buttons are found at the same time, one is selected at random.
 
